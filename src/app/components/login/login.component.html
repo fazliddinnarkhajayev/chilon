@@ -1,0 +1,8 @@
+<div class="login-wrapper">
+    <form #form="ngForm" class="login-form">
+        <h4 class="mb-3">Введите логин и пароль</h4>
+        <input ngModel name="login" type="text" placeholder="Логин">
+        <input ngModel name="password" type="password" placeholder="Пароль">
+        <button (click)="onFormSubmit(form)" type="submit" class="btn btn-primary p-2">Войти в панель управления</button>
+    </form>
+</div>

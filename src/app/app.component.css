@@ -1,0 +1,12 @@
+.app-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.menu-wrapper {
+    width: 300px;
+}
+
+.order-wrapper {
+    width: 100%;
+}

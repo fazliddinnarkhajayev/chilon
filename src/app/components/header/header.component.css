@@ -1,0 +1,12 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 20px 30px;
+    background-color: rgb(182, 41, 182);
+    color: white;
+}
+
+.site-header a {
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,8 @@
+.order-wrapper {
+    min-width: 75%;
+    height: calc(100vh - 72px);
+    margin-left: auto;
+    padding: 0 15px 0 15px;
+    background-color: #222;
+    color: white;
+}
